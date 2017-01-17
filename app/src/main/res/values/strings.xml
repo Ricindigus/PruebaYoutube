@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PruebaYoutube</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="texto_app">La Lista Prohibida es un documento internacional preparado por la
+        Agencia Mundial Antidopaje en el que se identifican las sustancias y métodos prohibidos en el deporte.
+        Hay sustancias prohibidas en competencia y otras que están prohibidas fuera de competencia.</string>
+    <string name="title_activity_referencia">ReferenciaActivity</string>
+</resources>
